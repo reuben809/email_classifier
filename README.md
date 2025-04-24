@@ -18,7 +18,7 @@ This project implements an email classification system with PII (Personally Iden
 ### Setup
 1. **Clone the Repository**
    ```bash
-   git clone 
+   git clone https://github.com/reuben809/email_classifier.git
    cd email-classification-system
    ```
 
